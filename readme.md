@@ -85,6 +85,8 @@ A Sample API working with NodeJS and Express with intention to work structure in
         "content":"Leonardo Camp Frederiche"
     }
     ```
+    
+---
 
 - **DELETE** | `localhost:3000/name/:index`
     ```
