@@ -31,7 +31,7 @@ A Sample API working with NodeJS and Express with intention to work structure in
     ```
 
     Example:
-    ```json
+    ```js
     // GET => localhost:3000/name
     [
         "Maria Eduarda"
@@ -47,7 +47,7 @@ A Sample API working with NodeJS and Express with intention to work structure in
     ```
     
     Example:
-    ```json
+    ```js
     // POST => localhost:3000/name
     {
         "content":"Leonardo Frederiche"
@@ -63,7 +63,7 @@ A Sample API working with NodeJS and Express with intention to work structure in
     ```
 
     Example:
-    ```json
+    ```js
     // GET => localhost:3000/1
     # => Maria Eduarda
 
@@ -79,7 +79,7 @@ A Sample API working with NodeJS and Express with intention to work structure in
     ```
 
     Example:
-    ```json
+    ```js
     // PUT => localhost:3000/name/2
     {
         "content":"Leonardo Camp Frederiche"
